@@ -41,10 +41,4 @@ Capital :: [[Sudan~North/Counties/Khartoum]]
 
 
 
-## Confidential Links & Embeds: 
-- [[geo/Continent/Africa/Africa~East/Sudan~North|Sudan~North]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Sudan~North.internal|Sudan~North.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Sudan~North.protect|Sudan~North.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Sudan~North.private|Sudan~North.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Sudan~North.personal|Sudan~North.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Sudan~North.secret|Sudan~North.secret]] 
+

@@ -40,11 +40,18 @@ markerFolder: ./Gezira/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Gezira|Gezira]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Gezira.public|Gezira.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Gezira.internal|Gezira.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Gezira.protect|Gezira.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Gezira.private|Gezira.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Gezira.personal|Gezira.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Gezira.secret|Gezira.secret]] 
+
+### #is_/same_as :: [Gezira](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.md) 
+
+### #is_/same_as :: [Gezira.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.public.md) 
+
+### #is_/same_as :: [Gezira.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.internal.md) 
+
+### #is_/same_as :: [Gezira.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.protect.md) 
+
+### #is_/same_as :: [Gezira.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.private.md) 
+
+### #is_/same_as :: [Gezira.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.personal.md) 
+
+### #is_/same_as :: [Gezira.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.secret.md)
 

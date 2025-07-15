@@ -40,11 +40,18 @@ markerFolder: ./River_Nile/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/River_Nile|River_Nile]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/River_Nile.public|River_Nile.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/River_Nile.internal|River_Nile.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/River_Nile.protect|River_Nile.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/River_Nile.private|River_Nile.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/River_Nile.personal|River_Nile.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/River_Nile.secret|River_Nile.secret]] 
+
+### #is_/same_as :: [Nile~River](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.md) 
+
+### #is_/same_as :: [Nile~River.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.public.md) 
+
+### #is_/same_as :: [Nile~River.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.internal.md) 
+
+### #is_/same_as :: [Nile~River.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.protect.md) 
+
+### #is_/same_as :: [Nile~River.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.private.md) 
+
+### #is_/same_as :: [Nile~River.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.personal.md) 
+
+### #is_/same_as :: [Nile~River.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.secret.md)
 

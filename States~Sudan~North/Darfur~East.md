@@ -40,11 +40,18 @@ markerFolder: ./Eastern_Darfur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur|Eastern_Darfur]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.public|Eastern_Darfur.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.internal|Eastern_Darfur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.protect|Eastern_Darfur.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.private|Eastern_Darfur.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.personal|Eastern_Darfur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Eastern_Darfur.secret|Eastern_Darfur.secret]] 
+
+### #is_/same_as :: [Darfur~East](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~East.md) 
+
+### #is_/same_as :: [Darfur~East.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~East.public.md) 
+
+### #is_/same_as :: [Darfur~East.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~East.internal.md) 
+
+### #is_/same_as :: [Darfur~East.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~East.protect.md) 
+
+### #is_/same_as :: [Darfur~East.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~East.private.md) 
+
+### #is_/same_as :: [Darfur~East.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~East.personal.md) 
+
+### #is_/same_as :: [Darfur~East.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~East.secret.md)
 

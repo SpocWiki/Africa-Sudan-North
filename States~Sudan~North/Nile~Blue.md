@@ -40,11 +40,18 @@ markerFolder: ./Blue_Nile/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Blue_Nile|Blue_Nile]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Blue_Nile.public|Blue_Nile.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.internal|Blue_Nile.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Blue_Nile.protect|Blue_Nile.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Blue_Nile.private|Blue_Nile.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.personal|Blue_Nile.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Blue_Nile.secret|Blue_Nile.secret]] 
+
+### #is_/same_as :: [Nile~Blue](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.md) 
+
+### #is_/same_as :: [Nile~Blue.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.public.md) 
+
+### #is_/same_as :: [Nile~Blue.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.internal.md) 
+
+### #is_/same_as :: [Nile~Blue.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.protect.md) 
+
+### #is_/same_as :: [Nile~Blue.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.private.md) 
+
+### #is_/same_as :: [Nile~Blue.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.personal.md) 
+
+### #is_/same_as :: [Nile~Blue.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.secret.md)
 

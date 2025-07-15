@@ -40,11 +40,18 @@ markerFolder: ./Red_Sea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Red_Sea|Red_Sea]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Red_Sea.public|Red_Sea.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Red_Sea.internal|Red_Sea.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Red_Sea.protect|Red_Sea.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Red_Sea.private|Red_Sea.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Red_Sea.personal|Red_Sea.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Red_Sea.secret|Red_Sea.secret]] 
+
+### #is_/same_as :: [Red_Sea](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Red_Sea.md) 
+
+### #is_/same_as :: [Red_Sea.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Red_Sea.public.md) 
+
+### #is_/same_as :: [Red_Sea.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Red_Sea.internal.md) 
+
+### #is_/same_as :: [Red_Sea.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Red_Sea.protect.md) 
+
+### #is_/same_as :: [Red_Sea.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Red_Sea.private.md) 
+
+### #is_/same_as :: [Red_Sea.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Red_Sea.personal.md) 
+
+### #is_/same_as :: [Red_Sea.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Red_Sea.secret.md)
 

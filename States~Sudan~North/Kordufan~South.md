@@ -40,11 +40,18 @@ markerFolder: ./South_Kordufan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/South_Kordufan|South_Kordufan]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/South_Kordufan.public|South_Kordufan.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/South_Kordufan.internal|South_Kordufan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/South_Kordufan.protect|South_Kordufan.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/South_Kordufan.private|South_Kordufan.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/South_Kordufan.personal|South_Kordufan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/South_Kordufan.secret|South_Kordufan.secret]] 
+
+### #is_/same_as :: [Kordufan~South](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.md) 
+
+### #is_/same_as :: [Kordufan~South.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.public.md) 
+
+### #is_/same_as :: [Kordufan~South.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.internal.md) 
+
+### #is_/same_as :: [Kordufan~South.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.protect.md) 
+
+### #is_/same_as :: [Kordufan~South.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.private.md) 
+
+### #is_/same_as :: [Kordufan~South.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.personal.md) 
+
+### #is_/same_as :: [Kordufan~South.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [15.6,32.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/City/Khartoum|Khartoum]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan/City/Khartoum.public|Khartoum.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/City/Khartoum.internal|Khartoum.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/City/Khartoum.protect|Khartoum.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/City/Khartoum.private|Khartoum.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/City/Khartoum.personal|Khartoum.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/City/Khartoum.secret|Khartoum.secret]] 
+
+### #is_/same_as :: [Khartoum](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum/City/Khartoum.md) 
+
+### #is_/same_as :: [Khartoum.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum/City/Khartoum.public.md) 
+
+### #is_/same_as :: [Khartoum.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum/City/Khartoum.internal.md) 
+
+### #is_/same_as :: [Khartoum.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum/City/Khartoum.protect.md) 
+
+### #is_/same_as :: [Khartoum.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum/City/Khartoum.private.md) 
+
+### #is_/same_as :: [Khartoum.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum/City/Khartoum.personal.md) 
+
+### #is_/same_as :: [Khartoum.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum/City/Khartoum.secret.md)
+

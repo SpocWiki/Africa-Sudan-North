@@ -40,11 +40,18 @@ markerFolder: ./Sudan~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Sudan~Northern|Sudan~Northern]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.public|Sudan~Northern.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.internal|Sudan~Northern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.protect|Sudan~Northern.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.private|Sudan~Northern.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.personal|Sudan~Northern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.secret|Sudan~Northern.secret]] 
+
+### #is_/same_as :: [Sudan~North](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sudan~North.md) 
+
+### #is_/same_as :: [Sudan~North.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sudan~North.public.md) 
+
+### #is_/same_as :: [Sudan~North.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sudan~North.internal.md) 
+
+### #is_/same_as :: [Sudan~North.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sudan~North.protect.md) 
+
+### #is_/same_as :: [Sudan~North.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sudan~North.private.md) 
+
+### #is_/same_as :: [Sudan~North.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sudan~North.personal.md) 
+
+### #is_/same_as :: [Sudan~North.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sudan~North.secret.md)
 
