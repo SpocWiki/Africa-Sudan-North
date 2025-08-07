@@ -53,3 +53,20 @@ Commons_category: White Nile (state)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/White%20Nile) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [White_Nile](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State/White_Nile.md) 
+
+### #is_/same_as :: [White_Nile.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State/White_Nile.public.md) 
+
+### #is_/same_as :: [White_Nile.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State/White_Nile.internal.md) 
+
+### #is_/same_as :: [White_Nile.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State/White_Nile.protect.md) 
+
+### #is_/same_as :: [White_Nile.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State/White_Nile.private.md) 
+
+### #is_/same_as :: [White_Nile.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State/White_Nile.personal.md) 
+
+### #is_/same_as :: [White_Nile.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State/White_Nile.secret.md)
+

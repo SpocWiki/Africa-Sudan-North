@@ -61,3 +61,20 @@ P8189: "987007539008205171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blue%20Nile) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blue_Nile](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.md) 
+
+### #is_/same_as :: [Blue_Nile.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.public.md) 
+
+### #is_/same_as :: [Blue_Nile.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.internal.md) 
+
+### #is_/same_as :: [Blue_Nile.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.protect.md) 
+
+### #is_/same_as :: [Blue_Nile.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.private.md) 
+
+### #is_/same_as :: [Blue_Nile.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.personal.md) 
+
+### #is_/same_as :: [Blue_Nile.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.secret.md)
+

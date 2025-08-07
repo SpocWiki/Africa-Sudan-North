@@ -41,17 +41,17 @@ markerFolder: ./River_Nile-State/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [River_Nile](River_Nile.md) 
+### #is_/same_as :: [River_Nile-State](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/River_Nile-State.md) 
 
-### #is_/same_as :: [Nile~River.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.public.md) 
+### #is_/same_as :: [River_Nile-State.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/River_Nile-State.public.md) 
 
-### #is_/same_as :: [Nile~River.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.internal.md) 
+### #is_/same_as :: [River_Nile-State.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/River_Nile-State.internal.md) 
 
-### #is_/same_as :: [Nile~River.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.protect.md) 
+### #is_/same_as :: [River_Nile-State.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/River_Nile-State.protect.md) 
 
-### #is_/same_as :: [Nile~River.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.private.md) 
+### #is_/same_as :: [River_Nile-State.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/River_Nile-State.private.md) 
 
-### #is_/same_as :: [Nile~River.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.personal.md) 
+### #is_/same_as :: [River_Nile-State.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/River_Nile-State.personal.md) 
 
-### #is_/same_as :: [Nile~River.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~River.secret.md)
+### #is_/same_as :: [River_Nile-State.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/River_Nile-State.secret.md)
 

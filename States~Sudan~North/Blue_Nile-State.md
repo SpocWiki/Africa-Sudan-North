@@ -41,17 +41,17 @@ markerFolder: ./Blue_Nile-State/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blue_Nile-State](Blue_Nile-State.md) 
+### #is_/same_as :: [Blue_Nile-State](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State.md) 
 
-### #is_/same_as :: [Nile~Blue.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.public.md) 
+### #is_/same_as :: [Blue_Nile-State.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State.public.md) 
 
-### #is_/same_as :: [Nile~Blue.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.internal.md) 
+### #is_/same_as :: [Blue_Nile-State.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State.internal.md) 
 
-### #is_/same_as :: [Nile~Blue.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.protect.md) 
+### #is_/same_as :: [Blue_Nile-State.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State.protect.md) 
 
-### #is_/same_as :: [Nile~Blue.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.private.md) 
+### #is_/same_as :: [Blue_Nile-State.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State.private.md) 
 
-### #is_/same_as :: [Nile~Blue.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.personal.md) 
+### #is_/same_as :: [Blue_Nile-State.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State.personal.md) 
 
-### #is_/same_as :: [Nile~Blue.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue.secret.md)
+### #is_/same_as :: [Blue_Nile-State.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State.secret.md)
 

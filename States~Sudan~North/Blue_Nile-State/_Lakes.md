@@ -41,17 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Lakes](_Lakes.md) 
+### #is_/same_as :: [_Lakes](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/_Lakes.md) 
 
-### #is_/same_as :: [_Lakes.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue/_Lakes.public.md) 
+### #is_/same_as :: [_Lakes.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/_Lakes.public.md) 
 
-### #is_/same_as :: [_Lakes.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue/_Lakes.internal.md) 
+### #is_/same_as :: [_Lakes.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/_Lakes.internal.md) 
 
-### #is_/same_as :: [_Lakes.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue/_Lakes.protect.md) 
+### #is_/same_as :: [_Lakes.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/_Lakes.protect.md) 
 
-### #is_/same_as :: [_Lakes.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue/_Lakes.private.md) 
+### #is_/same_as :: [_Lakes.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/_Lakes.private.md) 
 
-### #is_/same_as :: [_Lakes.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue/_Lakes.personal.md) 
+### #is_/same_as :: [_Lakes.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/_Lakes.personal.md) 
 
-### #is_/same_as :: [_Lakes.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Nile~Blue/_Lakes.secret.md)
+### #is_/same_as :: [_Lakes.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/_Lakes.secret.md)
 
