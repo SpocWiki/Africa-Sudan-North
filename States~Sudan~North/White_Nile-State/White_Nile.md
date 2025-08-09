@@ -4,15 +4,15 @@ aliases:
   - Weißer Nil
   - النيل الأبيض
 has_id_wikidata: Q311371
-located_in_the_administrative_territorial_entity: "[[db/Anglo_Egyptian_occupation_of_Sudan]]"
-instance_of: "[[db/state_of_Sudan]]"
-capital: "[[db/Rabak]]"
-office_held_by_head_of_government: "[[db/Governor_of_White_Nile]]"
-country: "[[db/Sudan]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Anglo_Egyptian_occupation_of_Sudan,541455]]"
+instance_of: "[[_Standards/WikiData/WD~state_of_Sudan,746290]]"
+capital: "[[_Standards/WikiData/WD~Rabak,1004008]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_White_Nile,112765741]]"
+country: "[[_Standards/WikiData/WD~Sudan,1049]]"
 language_used:
-  - "[[db/Fungor]]"
-  - "[[db/Logol]]"
-  - "[[db/Werni]]"
+  - "[[_Standards/WikiData/WD~Fungor,35693]]"
+  - "[[_Standards/WikiData/WD~Logol,35779]]"
+  - "[[_Standards/WikiData/WD~Werni,36971]]"
 area: 39701
 coordinate_location: Point(32.3333 13.45)
 geoshape: http://commons.wikimedia.org/data/main/Data:Sudan/White+Nile.map

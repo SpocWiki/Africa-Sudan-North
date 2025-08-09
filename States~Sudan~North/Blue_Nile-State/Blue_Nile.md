@@ -3,38 +3,38 @@ aliases:
   - Blauer Nil
   - Blue Nile
 has_id_wikidata: Q882739
-origin_of_the_watercourse: "[[db/Lake_Tana]]"
-lake_on_watercourse: "[[db/Lake_Tana]]"
-different_from: "[[db/Blue_Nile_State]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Lake_Tana,116685]]"
+lake_on_watercourse: "[[_Standards/WikiData/WD~Lake_Tana,116685]]"
+different_from: "[[_Standards/WikiData/WD~Blue_Nile_State,309489]]"
 tributary:
-  - "[[db/Didessa_River]]"
-  - "[[db/Bashilo_River]]"
-  - "[[db/Rahad_River]]"
-  - "[[db/Dinder_River]]"
-  - "[[db/Dabus_River]]"
-  - "[[db/Beles_River]]"
-  - "[[db/Guder_River]]"
-  - "[[db/Gulla]]"
-  - "[[db/Jamma_River]]"
-  - "[[db/Muger_River]]"
-  - "[[db/Walaqa_River]]"
+  - "[[_Standards/WikiData/WD~Didessa_River,586209]]"
+  - "[[_Standards/WikiData/WD~Bashilo_River,1067130]]"
+  - "[[_Standards/WikiData/WD~Rahad_River,1070291]]"
+  - "[[_Standards/WikiData/WD~Dinder_River,2604961]]"
+  - "[[_Standards/WikiData/WD~Dabus_River,3944988]]"
+  - "[[_Standards/WikiData/WD~Beles_River,4783658]]"
+  - "[[_Standards/WikiData/WD~Guder_River,4783777]]"
+  - "[[_Standards/WikiData/WD~Gulla,4783782]]"
+  - "[[_Standards/WikiData/WD~Jamma_River,4783797]]"
+  - "[[_Standards/WikiData/WD~Muger_River,4783885]]"
+  - "[[_Standards/WikiData/WD~Walaqa_River,4783953]]"
 described_by_source:
-  - "[[db/Q2041543]]"
-  - "[[db/Armenian_Soviet_Encyclopedia]]"
-  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Meyers_Konversations_Lexikon,_4th_edition_(1885_1890)]]"
-  - "[[db/Great_Soviet_Encyclopedia_(1926_1947)]]"
-drainage_basin: "[[db/Nile_basin]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548]]"
 coordinate_location:
   - Point(32.501944444 15.623611111)
   - Point(37.408 11.6206)
 country:
-  - "[[db/Sudan]]"
-  - "[[db/Ethiopia]]"
-mouth_of_the_watercourse: "[[db/Nile]]"
-instance_of: "[[db/river]]"
-continent: "[[db/Africa]]"
-basin_country: "[[db/Ethiopia]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049]]"
+  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Nile,3392]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+basin_country: "[[_Standards/WikiData/WD~Ethiopia,115]]"
 watershed_area: 325000
 length: 1783
 elevation_above_sea_level: 1786
