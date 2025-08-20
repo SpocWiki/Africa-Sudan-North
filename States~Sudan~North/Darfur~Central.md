@@ -1,30 +1,29 @@
 ---
-location: [ 12.2 , 23.3 ] 
+location:
+  - 12.2
+  - 23.3
 type: geo-Region
 title: Central_Darfur
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Central_Darfur
-
+  - Central_Darfur
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Central_Darfur
