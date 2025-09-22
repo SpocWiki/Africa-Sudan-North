@@ -28,11 +28,11 @@ Continent :: [[Africa]]
 [VehicleCode::SUD] 
 Capital :: [[Sudan~North/Counties/Khartoum]]  
 
-![[Sudan~North/Emblem_of_Sudan.svg|350]] 
+![[Emblem_of_Sudan.svg|350]] 
 
 ![[Anthem-Sudan.mp3]] 
 
-![[Sudan~North/Flag_of_Sudan.svg|350]] 
+![[Flag_of_Sudan.svg|350]] 
 
 [Alcohol-l::2.6] 
 [Language-Id::472] 

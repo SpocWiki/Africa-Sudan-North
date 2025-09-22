@@ -49,7 +49,7 @@ P8189: "987007539008205171"
 # [[Blue_Nile]] 
 
 #is_a :: [[../../../../../../Geology/River|River]] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Blue_Nile,882739|WD~Blue_Nile,882739]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Blue_Nile,882739|WD~Blue_Nile,882739]] 
 
 
 ## #has_/text_of_/abstract 
