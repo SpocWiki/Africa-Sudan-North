@@ -67,3 +67,20 @@ Commons_category: Nubia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nubia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Nubia|Nubia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Nubia.public|Nubia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Nubia.internal|Nubia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Nubia.protect|Nubia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Nubia.private|Nubia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Nubia.personal|Nubia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Nubia.secret|Nubia.secret]] 
+

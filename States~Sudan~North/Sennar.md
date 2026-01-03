@@ -40,17 +40,17 @@ markerFolder: ./Sennar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sennar](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sennar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Sennar|Sennar]] 
 
-### #is_/same_as :: [Sennar.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sennar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Sennar.public|Sennar.public]] 
 
-### #is_/same_as :: [Sennar.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sennar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Sennar.internal|Sennar.internal]] 
 
-### #is_/same_as :: [Sennar.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sennar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Sennar.protect|Sennar.protect]] 
 
-### #is_/same_as :: [Sennar.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sennar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Sennar.private|Sennar.private]] 
 
-### #is_/same_as :: [Sennar.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sennar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Sennar.personal|Sennar.personal]] 
 
-### #is_/same_as :: [Sennar.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Sennar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Sennar.secret|Sennar.secret]] 
 

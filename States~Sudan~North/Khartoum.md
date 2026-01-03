@@ -139,19 +139,20 @@ markerFolder: ./Khartoum/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Khartoum) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khartoum](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Khartoum|Khartoum]] 
 
-### #is_/same_as :: [Khartoum.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Khartoum.public|Khartoum.public]] 
 
-### #is_/same_as :: [Khartoum.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Khartoum.internal|Khartoum.internal]] 
 
-### #is_/same_as :: [Khartoum.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Khartoum.protect|Khartoum.protect]] 
 
-### #is_/same_as :: [Khartoum.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Khartoum.private|Khartoum.private]] 
 
-### #is_/same_as :: [Khartoum.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Khartoum.personal|Khartoum.personal]] 
 
-### #is_/same_as :: [Khartoum.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Khartoum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Khartoum.secret|Khartoum.secret]] 
 

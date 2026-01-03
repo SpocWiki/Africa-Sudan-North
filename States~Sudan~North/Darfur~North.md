@@ -40,17 +40,17 @@ markerFolder: ./North_Darfur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Darfur~North](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~North|Darfur~North]] 
 
-### #is_/same_as :: [Darfur~North.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~North.public|Darfur~North.public]] 
 
-### #is_/same_as :: [Darfur~North.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~North.internal|Darfur~North.internal]] 
 
-### #is_/same_as :: [Darfur~North.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~North.protect|Darfur~North.protect]] 
 
-### #is_/same_as :: [Darfur~North.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~North.private|Darfur~North.private]] 
 
-### #is_/same_as :: [Darfur~North.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~North.personal|Darfur~North.personal]] 
 
-### #is_/same_as :: [Darfur~North.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~North.secret|Darfur~North.secret]] 
 

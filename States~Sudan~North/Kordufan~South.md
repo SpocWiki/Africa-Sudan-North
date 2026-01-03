@@ -40,17 +40,17 @@ markerFolder: ./South_Kordufan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kordufan~South](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kordufan~South|Kordufan~South]] 
 
-### #is_/same_as :: [Kordufan~South.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kordufan~South.public|Kordufan~South.public]] 
 
-### #is_/same_as :: [Kordufan~South.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kordufan~South.internal|Kordufan~South.internal]] 
 
-### #is_/same_as :: [Kordufan~South.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kordufan~South.protect|Kordufan~South.protect]] 
 
-### #is_/same_as :: [Kordufan~South.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kordufan~South.private|Kordufan~South.private]] 
 
-### #is_/same_as :: [Kordufan~South.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kordufan~South.personal|Kordufan~South.personal]] 
 
-### #is_/same_as :: [Kordufan~South.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kordufan~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kordufan~South.secret|Kordufan~South.secret]] 
 

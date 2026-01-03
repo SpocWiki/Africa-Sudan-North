@@ -40,17 +40,17 @@ markerFolder: ./Gezira/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gezira](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gezira|Gezira]] 
 
-### #is_/same_as :: [Gezira.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gezira.public|Gezira.public]] 
 
-### #is_/same_as :: [Gezira.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gezira.internal|Gezira.internal]] 
 
-### #is_/same_as :: [Gezira.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gezira.protect|Gezira.protect]] 
 
-### #is_/same_as :: [Gezira.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gezira.private|Gezira.private]] 
 
-### #is_/same_as :: [Gezira.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gezira.personal|Gezira.personal]] 
 
-### #is_/same_as :: [Gezira.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gezira.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gezira.secret|Gezira.secret]] 
 

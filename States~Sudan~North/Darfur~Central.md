@@ -40,17 +40,17 @@ markerFolder: ./Central_Darfur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Darfur~Central](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~Central|Darfur~Central]] 
 
-### #is_/same_as :: [Darfur~Central.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~Central.public|Darfur~Central.public]] 
 
-### #is_/same_as :: [Darfur~Central.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~Central.internal|Darfur~Central.internal]] 
 
-### #is_/same_as :: [Darfur~Central.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~Central.protect|Darfur~Central.protect]] 
 
-### #is_/same_as :: [Darfur~Central.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~Central.private|Darfur~Central.private]] 
 
-### #is_/same_as :: [Darfur~Central.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~Central.personal|Darfur~Central.personal]] 
 
-### #is_/same_as :: [Darfur~Central.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Darfur~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Darfur~Central.secret|Darfur~Central.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Gedarif/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gedarif](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gedarif.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gedarif|Gedarif]] 
 
-### #is_/same_as :: [Gedarif.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gedarif.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gedarif.public|Gedarif.public]] 
 
-### #is_/same_as :: [Gedarif.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gedarif.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gedarif.internal|Gedarif.internal]] 
 
-### #is_/same_as :: [Gedarif.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gedarif.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gedarif.protect|Gedarif.protect]] 
 
-### #is_/same_as :: [Gedarif.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gedarif.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gedarif.private|Gedarif.private]] 
 
-### #is_/same_as :: [Gedarif.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gedarif.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gedarif.personal|Gedarif.personal]] 
 
-### #is_/same_as :: [Gedarif.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Gedarif.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Gedarif.secret|Gedarif.secret]] 
 

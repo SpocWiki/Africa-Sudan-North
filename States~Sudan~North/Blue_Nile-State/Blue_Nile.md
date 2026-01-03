@@ -64,17 +64,17 @@ P8189: "987007539008205171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blue_Nile](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile|Blue_Nile]] 
 
-### #is_/same_as :: [Blue_Nile.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.public|Blue_Nile.public]] 
 
-### #is_/same_as :: [Blue_Nile.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.internal|Blue_Nile.internal]] 
 
-### #is_/same_as :: [Blue_Nile.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.protect|Blue_Nile.protect]] 
 
-### #is_/same_as :: [Blue_Nile.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.private|Blue_Nile.private]] 
 
-### #is_/same_as :: [Blue_Nile.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.personal|Blue_Nile.personal]] 
 
-### #is_/same_as :: [Blue_Nile.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Blue_Nile-State/Blue_Nile.secret|Blue_Nile.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Kassala/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kassala](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kassala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kassala|Kassala]] 
 
-### #is_/same_as :: [Kassala.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kassala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kassala.public|Kassala.public]] 
 
-### #is_/same_as :: [Kassala.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kassala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kassala.internal|Kassala.internal]] 
 
-### #is_/same_as :: [Kassala.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kassala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kassala.protect|Kassala.protect]] 
 
-### #is_/same_as :: [Kassala.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kassala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kassala.private|Kassala.private]] 
 
-### #is_/same_as :: [Kassala.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kassala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kassala.personal|Kassala.personal]] 
 
-### #is_/same_as :: [Kassala.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/Kassala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Kassala.secret|Kassala.secret]] 
 

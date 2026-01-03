@@ -79,3 +79,20 @@ dissolved_abolished_or_demolished_date: -1500-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mero%C3%AB) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Meroë|Meroë]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Meroë.public|Meroë.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Meroë.internal|Meroë.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Meroë.protect|Meroë.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Meroë.private|Meroë.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Meroë.personal|Meroë.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/River_Nile-State/Meroë.secret|Meroë.secret]] 
+

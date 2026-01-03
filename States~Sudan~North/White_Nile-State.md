@@ -64,17 +64,17 @@ markerFolder: ./White_Nile-State///
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [White_Nile-State](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/White_Nile-State|White_Nile-State]] 
 
-### #is_/same_as :: [White_Nile-State.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/White_Nile-State.public|White_Nile-State.public]] 
 
-### #is_/same_as :: [White_Nile-State.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/White_Nile-State.internal|White_Nile-State.internal]] 
 
-### #is_/same_as :: [White_Nile-State.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/White_Nile-State.protect|White_Nile-State.protect]] 
 
-### #is_/same_as :: [White_Nile-State.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/White_Nile-State.private|White_Nile-State.private]] 
 
-### #is_/same_as :: [White_Nile-State.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/White_Nile-State.personal|White_Nile-State.personal]] 
 
-### #is_/same_as :: [White_Nile-State.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North/States~Sudan~North/White_Nile-State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/White_Nile-State.secret|White_Nile-State.secret]] 
 
