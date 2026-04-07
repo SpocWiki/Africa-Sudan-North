@@ -13,19 +13,19 @@ location:
   - 33.75075
 coordinate_location: Point(33.75075 16.935138888)
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~River_Nile,849297]]"
-different_from: "[[_Standards/WikiData/WD~Merowe,2784541]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~River_Nile,849297|WD~River_Nile,849297]]"
+different_from: "[[_Standards/WikiData/WD~Merowe,2784541|WD~Merowe,2784541]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~ancient_city,15661340]]"
+  - "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~ancient_city,15661340|WD~ancient_city,15661340]]"
 inception: -2500-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~Sudan,1049]]"
-culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
+country: "[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
+culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
 area: 1718.031
 Commons_category: Meroe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sudan%20Meroe%20Pyramids%202001.JPG

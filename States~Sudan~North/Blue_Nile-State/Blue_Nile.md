@@ -3,38 +3,38 @@ aliases:
   - Blauer Nil
   - Blue Nile
 has_id_wikidata: Q882739
-origin_of_the_watercourse: "[[_Standards/WikiData/WD~Lake_Tana,116685]]"
-lake_on_watercourse: "[[_Standards/WikiData/WD~Lake_Tana,116685]]"
-different_from: "[[_Standards/WikiData/WD~Blue_Nile_State,309489]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Lake_Tana,116685|WD~Lake_Tana,116685]]"
+lake_on_watercourse: "[[_Standards/WikiData/WD~Lake_Tana,116685|WD~Lake_Tana,116685]]"
+different_from: "[[_Standards/WikiData/WD~Blue_Nile_State,309489|WD~Blue_Nile_State,309489]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Didessa_River,586209]]"
-  - "[[_Standards/WikiData/WD~Bashilo_River,1067130]]"
-  - "[[_Standards/WikiData/WD~Rahad_River,1070291]]"
-  - "[[_Standards/WikiData/WD~Dinder_River,2604961]]"
-  - "[[_Standards/WikiData/WD~Dabus_River,3944988]]"
-  - "[[_Standards/WikiData/WD~Beles_River,4783658]]"
-  - "[[_Standards/WikiData/WD~Guder_River,4783777]]"
-  - "[[_Standards/WikiData/WD~Gulla,4783782]]"
-  - "[[_Standards/WikiData/WD~Jamma_River,4783797]]"
-  - "[[_Standards/WikiData/WD~Muger_River,4783885]]"
-  - "[[_Standards/WikiData/WD~Walaqa_River,4783953]]"
+  - "[[_Standards/WikiData/WD~Didessa_River,586209|WD~Didessa_River,586209]]"
+  - "[[_Standards/WikiData/WD~Bashilo_River,1067130|WD~Bashilo_River,1067130]]"
+  - "[[_Standards/WikiData/WD~Rahad_River,1070291|WD~Rahad_River,1070291]]"
+  - "[[_Standards/WikiData/WD~Dinder_River,2604961|WD~Dinder_River,2604961]]"
+  - "[[_Standards/WikiData/WD~Dabus_River,3944988|WD~Dabus_River,3944988]]"
+  - "[[_Standards/WikiData/WD~Beles_River,4783658|WD~Beles_River,4783658]]"
+  - "[[_Standards/WikiData/WD~Guder_River,4783777|WD~Guder_River,4783777]]"
+  - "[[_Standards/WikiData/WD~Gulla,4783782|WD~Gulla,4783782]]"
+  - "[[_Standards/WikiData/WD~Jamma_River,4783797|WD~Jamma_River,4783797]]"
+  - "[[_Standards/WikiData/WD~Muger_River,4783885|WD~Muger_River,4783885]]"
+  - "[[_Standards/WikiData/WD~Walaqa_River,4783953|WD~Walaqa_River,4783953]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548|WD~Nile_basin,2887548]]"
 coordinate_location:
   - Point(32.501944444 15.623611111)
   - Point(37.408 11.6206)
 country:
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Nile,3392]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-basin_country: "[[_Standards/WikiData/WD~Ethiopia,115]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
+  - "[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Nile,3392|WD~Nile,3392]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
+basin_country: "[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
 watershed_area: 325000
 length: 1783
 elevation_above_sea_level: 1786

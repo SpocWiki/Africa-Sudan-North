@@ -25,15 +25,15 @@ layout:
 publishDate:
 expiryDate:
 has_id_wikidata: Q311371
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Anglo_Egyptian_Sudan,541455]]"
-instance_of: "[[_Standards/WikiData/WD~state_of_Sudan,746290]]"
-capital: "[[_Standards/WikiData/WD~Rabak,1004008]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_White_Nile,112765741]]"
-country: "[[_Standards/WikiData/WD~Sudan,1049]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Anglo_Egyptian_Sudan,541455|WD~Anglo_Egyptian_Sudan,541455]]"
+instance_of: "[[_Standards/WikiData/WD~state_of_Sudan,746290|WD~state_of_Sudan,746290]]"
+capital: "[[_Standards/WikiData/WD~Rabak,1004008|WD~Rabak,1004008]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_White_Nile,112765741|WD~Governor_of_White_Nile,112765741]]"
+country: "[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
 language_used:
-  - "[[_Standards/WikiData/WD~Fungor,35693]]"
-  - "[[_Standards/WikiData/WD~Logol,35779]]"
-  - "[[_Standards/WikiData/WD~Werni,36971]]"
+  - "[[_Standards/WikiData/WD~Fungor,35693|WD~Fungor,35693]]"
+  - "[[_Standards/WikiData/WD~Logol,35779|WD~Logol,35779]]"
+  - "[[_Standards/WikiData/WD~Werni,36971|WD~Werni,36971]]"
 area: 39701
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rabak...jpg
 coordinate_location: Point(32.3333 13.45)
@@ -48,7 +48,7 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of
 
 # [[White_Nile-State]]
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~White_Nile,311371]]  
+#is_/same_as :: [[../../../../../../../WikiData/WD~White_Nile,311371|WD~White_Nile,311371]]  
 
 ## #has_/map 
 

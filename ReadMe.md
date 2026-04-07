@@ -26,7 +26,7 @@ markerFolder: .//
 [Area-Land::2376000] 
 Continent :: [[Africa]]  
 [VehicleCode::SUD] 
-Capital :: [[Sudan~North/Counties/Khartoum]]  
+Capital :: [[Sudan~North/Counties/Khartoum|Khartoum]]  
 
 ![[Emblem_of_Sudan.svg|350]] 
 

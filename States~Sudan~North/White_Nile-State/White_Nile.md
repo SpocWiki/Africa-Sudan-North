@@ -5,39 +5,39 @@ aliases:
   - النيل الأبيض
 has_id_wikidata: Q4814791
 lake_on_watercourse:
-  - "[[_Standards/WikiData/WD~Lake_Albert,125888]]"
-  - "[[_Standards/WikiData/WD~Lake_No,403145]]"
-  - "[[_Standards/WikiData/WD~Lake_Victoria,5505]]"
-different_from: "[[_Standards/WikiData/WD~White_Nile,311371]]"
+  - "[[_Standards/WikiData/WD~Lake_Albert,125888|WD~Lake_Albert,125888]]"
+  - "[[_Standards/WikiData/WD~Lake_No,403145|WD~Lake_No,403145]]"
+  - "[[_Standards/WikiData/WD~Lake_Victoria,5505|WD~Lake_Victoria,5505]]"
+different_from: "[[_Standards/WikiData/WD~White_Nile,311371|WD~White_Nile,311371]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Bahr_el_Ghazal_River,803634]]"
-  - "[[_Standards/WikiData/WD~Sobat_River,821911]]"
-  - "[[_Standards/WikiData/WD~Bahr_el_Zeraf,1112393]]"
-  - "[[_Standards/WikiData/WD~Achwa,2034078]]"
-  - "[[_Standards/WikiData/WD~Adar_River,4680801]]"
-  - "[[_Standards/WikiData/WD~Kidepo_River,4788736]]"
-  - "[[_Standards/WikiData/WD~Ora_River,4790384]]"
-  - "[[_Standards/WikiData/WD~Kafu,4790395]]"
-drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548]]"
+  - "[[_Standards/WikiData/WD~Bahr_el_Ghazal_River,803634|WD~Bahr_el_Ghazal_River,803634]]"
+  - "[[_Standards/WikiData/WD~Sobat_River,821911|WD~Sobat_River,821911]]"
+  - "[[_Standards/WikiData/WD~Bahr_el_Zeraf,1112393|WD~Bahr_el_Zeraf,1112393]]"
+  - "[[_Standards/WikiData/WD~Achwa,2034078|WD~Achwa,2034078]]"
+  - "[[_Standards/WikiData/WD~Adar_River,4680801|WD~Adar_River,4680801]]"
+  - "[[_Standards/WikiData/WD~Kidepo_River,4788736|WD~Kidepo_River,4788736]]"
+  - "[[_Standards/WikiData/WD~Ora_River,4790384|WD~Ora_River,4790384]]"
+  - "[[_Standards/WikiData/WD~Kafu,4790395|WD~Kafu,4790395]]"
+drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548|WD~Nile_basin,2887548]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 coordinate_location:
   - Point(32.501944444 15.623611111)
   - Point(33.195583333 0.415222222)
 country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~South_Sudan,958]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-basin_country: "[[_Standards/WikiData/WD~Burundi,967]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Nile,3392]]"
-part_of: "[[_Standards/WikiData/WD~Nile,3392]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-origin_of_the_watercourse: "[[_Standards/WikiData/WD~Lake_Victoria,5505]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+  - "[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]"
+  - "[[_Standards/WikiData/WD~South_Sudan,958|WD~South_Sudan,958]]"
+  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+  - "[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]"
+  - "[[_Standards/WikiData/WD~Rwanda,1037|WD~Rwanda,1037]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
+basin_country: "[[_Standards/WikiData/WD~Burundi,967|WD~Burundi,967]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Nile,3392|WD~Nile,3392]]"
+part_of: "[[_Standards/WikiData/WD~Nile,3392|WD~Nile,3392]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Lake_Victoria,5505|WD~Lake_Victoria,5505]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
 elevation_above_sea_level: 350
 length: 2620
 discharge: 878

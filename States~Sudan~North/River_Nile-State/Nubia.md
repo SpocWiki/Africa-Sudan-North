@@ -7,19 +7,19 @@ location:
   - 18.9508
   - 32.2558
 coordinate_location: Point(32.2558 18.9508)
-instance_of: "[[_Standards/WikiData/WD~region,82794]]"
-different_from: "[[_Standards/WikiData/WD~Kingdom_of_Numidia,102679]]"
-studied_by: "[[_Standards/WikiData/WD~Egyptology,145903]]"
+instance_of: "[[_Standards/WikiData/WD~region,82794|WD~region,82794]]"
+different_from: "[[_Standards/WikiData/WD~Kingdom_of_Numidia,102679|WD~Kingdom_of_Numidia,102679]]"
+studied_by: "[[_Standards/WikiData/WD~Egyptology,145903|WD~Egyptology,145903]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
 country:
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
+  - "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Nubia%20banner%20Throne%20hall%20of%20Old%20Dobgola%20Kingdom%20of%20Makuria.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nubia%20NASA-WW%20places%20german.jpg
 Libris_URI: 1zcfd96k5hlp46n
