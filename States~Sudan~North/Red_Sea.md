@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Red_Sea/
 markerFolder: ./Red_Sea/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

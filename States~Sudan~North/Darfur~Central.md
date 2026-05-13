@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Central_Darfur/
 markerFolder: ./Central_Darfur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

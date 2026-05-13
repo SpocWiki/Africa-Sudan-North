@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Eastern_Darfur/
 markerFolder: ./Eastern_Darfur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
