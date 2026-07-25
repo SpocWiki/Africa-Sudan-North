@@ -3,7 +3,7 @@ dv_ISO2: SD
 dv_ISO3: SDN
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
+  - '[[../../../../../../WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North|Sudan~North]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.public|Sudan~North.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.internal|Sudan~North.internal]]'
@@ -317,16 +317,16 @@ dv_has_name_en: Sudan
 dv_has_name_de: Sudan
 dv_Area-Total: 2505813
 dv_Area-Land: 2376000
-dv_has_place_continent: '[[../../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../../Africa|Africa]]'
 dv_VehicleCode: SUD
-dv_Capital: '[[Sudan~North/Counties/Khartoum|Khartoum]]'
+dv_Capital: '[[Counties/Khartoum|Khartoum]]'
 dv_Alcohol-l: 2.6
 dv_Language-Id: 472
-dv_is_a_: '[[../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 32.53
 dv_has_place_latitude: 15.6
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
+- '[[../../../../../../WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North|Sudan~North]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.public|Sudan~North.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.internal|Sudan~North.internal]]'
@@ -817,7 +817,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Sudan~North/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -837,7 +837,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Sudan~North_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -863,11 +863,11 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
-![[Sudan~North/Emblem_of_Sudan.svg|350]]
+![[Emblem_of_Sudan.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sudan.mp3|Anthem-Sudan.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Sudan.mp3|Anthem-Sudan.mp3]]
 
-![[Sudan~North/Flag_of_Sudan.svg|350]]
+![[Flag_of_Sudan.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
